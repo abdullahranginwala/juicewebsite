@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Juice</title>
+    <link rel="stylesheet" href="assets/vendors/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+    
+</head>
+
+<body>
+    <header class="foi-header landing-header">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light foi-navbar">
+                <a class="navbar-brand" href="index.html">
+                    <h1 class="logo">Juice</h1>
+                </a>
+                <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="collapsibleNavId">
+                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                        
+                    </ul>
+                    <ul class="navbar-nav mt-lg-0">
+                        <div class="container mr-5 mb-3">
+                            <li class="nav-item active">
+                                <a class="nav-link active" href="index.html">Home <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="about.html">Our Story</a>
+                            </li>
+                        </div>
+                        <li class="nav-item">
+                            <a class="btn btn-secondary btn-center m-auto" href="contact.html">Inquire</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="header-content">
+                <div class="row">
+                    <div class="col-lg-7 opc-background">
+                        <h1>Rethinking personal growth, one goal at a time.</h1>
+                        <p class="text-dark">We distill the most effective habits, advice strategies into actionable guides and goals for you.</p>
+                        <button class="btn btn-primary mb-4 btn-medium">Sign Up for Beta Testing ></button>
+                    </div>
+                    <div class="col-lg-5">
+                        <img src="assets/images/blank-iphone.png" alt="app" class="img-fluid center-align">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="py-5 mb-5">
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-8 pr-5">
+                    <h3 class="mb-2">
+                        Our Mission
+                    </h3>
+                    <p class="text-dark">
+                        Juice is designed to help you live your best life. We innovate new approaches to learn, plan and track personal growth to guide you closer to your goals. Our mission is to connect you to concepts, tools and people that have added value to our lives, and who can add values to yours too. <a href="#">Check out how we plan to do this!</a>
+                    </p>
+                </div>
+                <div class="col-lg-4">
+                    <img src="assets/images/our-mission.png" class="img-fluid" width="388px" alt="App 2">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-5 mb-5 svg-background">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 center-align">
+                    <img src="assets/images/blank-iphone-single.svg" class="img-fluid img-overflow" width="320px" alt="App 2">
+                </div>
+                <div class="col-lg-7">
+                    <div class="slideshow">
+                        <h3>
+                            Our Mission
+                        </h3>
+                        <p class="text-dark">
+                            Your goals form the path to becoming your best self. Juice helps you design the strategy that gets you there (and accounts for obstacles in the way!)
+                        </p>
+                    </div>
+                    <div class="slideshow">
+                        <h3>
+                            Your Mission
+                        </h3>
+                        <p class="text-dark">
+                            Your goals form the path to becoming your best self. Juice helps you design the strategy that gets you there (and accounts for obstacles in the way!)
+                        </p>
+                    </div>
+                    <button onclick="myShow.previous()">Previous</button>
+                    <button onclick="myShow.next()">Next</button>
+                    <script>
+                        myShow = w3.slideshow(".slideshow", 0);
+                    </script>
+                </div>
+            </div> 
+        </div>
+        
+    </section>
+    <section class="py-5 mb-5">
+        <div class="container">
+            <div class="row footer-content">
+                <div class="col-xl-6 col-lg-7 col-md-8">
+                    <h2 class="mb-0">Do you want to know more or just have a question? write to us.</h2>
+                </div>
+                <div class="col-md-4 col-lg-5 col-xl-6 py-3 py-md-0 d-md-flex align-items-center justify-content-end">
+                    <a href="contact.html" class="btn btn-secondary btn-lg">Contact form</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="foi-footer text-white">
+        <div class="container">
+            <div class="row footer-widget-area">
+                <p>
+                    &copy; Juice. 2021 <a href="https://www.juice.co" target="_blank" rel="noopener noreferrer" class="text-reset">Juice</a>.
+                </p>
+                <p>All rights reserved.</p>
+                <nav class="social-menu">
+                    <a href="#!"><img src="assets/images/facebook.svg" alt="facebook"></a>
+                    <a href="#!"><img src="assets/images/instagram.svg" alt="instagram"></a>
+                    <a href="#!"><img src="assets/images/twitter.svg" alt="twitter"></a>
+                    <a href="#!"><img src="assets/images/youtube.svg" alt="youtube"></a>
+                </nav>
+            </div>
+        </div>
+    </footer>
+    <script src="assets/vendors/jquery/jquery.min.js"></script>
+    <script src="assets/vendors/popper.js/popper.min.js"></script>
+    <script src="assets/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

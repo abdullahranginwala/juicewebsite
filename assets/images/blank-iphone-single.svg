@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="452px" height="896px" viewBox="0 0 452 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group_8</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page-–-2" transform="translate(-269.000000, -2047.000000)" fill-rule="nonzero">
+            <g id="Home_Page_2" transform="translate(-338.695193, 0.000000)">
+                <g id="Group_8" transform="translate(607.695193, 2047.000000)">
+                    <g id="Group" fill="#FFFFFF">
+                        <rect id="base-4" x="0" y="0" width="452" height="896" rx="54"></rect>
+                    </g>
+                    <rect id="mask-5" fill="#EBEBEB" x="20" y="20" width="412" height="857" rx="44"></rect>
+                    <path d="M115,19 L337,19 L337,19 C337,36.1208272 323.120827,50 306,50 L146,50 C128.879173,50 115,36.1208272 115,19 L115,19 Z" id="bar" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

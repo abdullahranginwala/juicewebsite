@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2710px" height="2042px" viewBox="0 0 2710 2042" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF930060" stop-opacity="0.914" offset="20%"></stop>
+            <stop stop-color="#FF2F9260" stop-opacity="0.914" offset="80%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="Home-Page-–-2" transform="translate(339.000000, -1767.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Home_Page_2" transform="translate(-338.695193, 0.000000)">
+                <g id="Group-3" transform="translate(0.000000, 1766.996000)">
+                    <path d="M324.804193,163.995 C324.804193,163.995 793.898193,222.718 1097.78819,491.258 C1523.34019,867.304 1903.17019,1283.897 2283.00219,1384.458 C2935.63519,1557.246 2770.49519,2016.592 2248.58019,2040.942 C1726.66519,2065.292 719.881193,948.098 202.114193,743.3 C-315.652807,538.502 324.804193,163.995 324.804193,163.995 Z" id="Path_69"></path>
+                    <path d="M324.804193,0 C324.804193,0 793.898193,58.723 1097.78819,327.263 C1523.34019,703.309 1903.17019,1119.902 2283.00219,1220.463 C2935.63519,1393.251 2770.49519,1852.597 2248.58019,1876.947 C1726.66519,1901.297 719.881193,784.103 202.114193,579.305 C-315.652807,374.507 324.804193,0 324.804193,0 Z" id="Path_68"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
